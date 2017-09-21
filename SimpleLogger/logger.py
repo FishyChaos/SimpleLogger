@@ -3,3 +3,7 @@ def test():
 
 def NewFunction():
     print("A new feature that I developed!")
+   
+def NewFeatureFromAdmin():
+    print("IAM THE OWNER OF THIS SHIT!")
+
